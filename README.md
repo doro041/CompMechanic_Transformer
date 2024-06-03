@@ -1,4 +1,4 @@
-# CompMechanic_Transformer
+# Computational Mechanics Hackathon : Belief State Representations in Transformer Models on Nonergodic Data
 
 This repository contains code for training transformer models on non-ergodic processes and analyzing the learned representations through the lens of computational mechanics. The goal is to investigate whether transformer models learn to represent belief states and perform Bayesian updating, even when it is not necessary for the prediction task.
 
